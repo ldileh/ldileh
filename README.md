@@ -47,7 +47,7 @@ GitHub • GitLab • CI/CD • Kubernetes • AppsFlyer • Clevertap
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ldileh&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldileh&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldileh&layout=donut&theme=tokyonight&hide_border=true&hide=html,css)
 
 ---
 
