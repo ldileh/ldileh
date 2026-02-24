@@ -14,6 +14,7 @@ Currently focused on **Android Native Development**, crafting scalable, high-per
 I enjoy building clean architectures, optimizing performance, and improving user experience through thoughtful engineering.
 
 🔹 Strong in Android (Kotlin, MVVM, KMM)  
+🔹 Strong in Web Application (Laravel)
 🔹 Experienced in financial technology products  
 🔹 Passionate about clean code & scalable systems  
 
@@ -25,6 +26,7 @@ I enjoy building clean architectures, optimizing performance, and improving user
 - Improving app stability & crash monitoring
 - Applying Clean Architecture & MVVM
 - Exploring Kotlin Multiplatform (KMM)
+- Pentest on Android Application
 
 ---
 
@@ -53,11 +55,8 @@ GitHub • GitLab • CI/CD • Kubernetes • AppsFlyer • Clevertap
 
 ## 🚀 Highlight Projects
 
-### 🔹 Android Financial Module
+### 🔹 Android Project
 Modern MVVM architecture with secure API integration and CI/CD automation.
-
-### 🔹 Wealth Management Feature
-End-to-end Android feature with analytics integration and crash monitoring.
 
 ### 🔹 Web-Based Client System
 Fullstack application with REST API integration and scalable deployment pipeline.
