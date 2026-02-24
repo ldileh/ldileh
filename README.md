@@ -43,9 +43,9 @@ GitHub • GitLab • CI/CD • Kubernetes • AppsFlyer • Clevertap
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ldileh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ldileh&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldileh&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldileh&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
