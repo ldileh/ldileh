@@ -64,7 +64,7 @@ Fullstack application with REST API integration and scalable deployment pipeline
 
 ## 🌎 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/Idileh  
+- 💼 LinkedIn: https://www.linkedin.com/in/ldileh
 - 📧 Email: ldileh@gmail.com  
 - 🐙 GitHub: https://github.com/ldileh  
 
